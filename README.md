@@ -3,7 +3,6 @@
 </div>
 
 # DLpapers
------------------
 
 **DLpapers** is a curated (actually useful) list for papers on Deep Learning with specific focus on Natural Language Understanding and Generation.
 
