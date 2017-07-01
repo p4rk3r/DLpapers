@@ -2,7 +2,7 @@
   <img width='600px' src="http://i.imgur.com/yPXqu4n.jpg"><br><br>
 </div>
 
-#DLpapers
+# DLpapers
 -----------------
 
 **DLpapers** is a curated (actually useful) list for papers on Deep Learning with specific focus on Natural Language Understanding and Generation.
