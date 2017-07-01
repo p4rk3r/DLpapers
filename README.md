@@ -1,7 +1,7 @@
 # DLpapers
 
 <div align="center">
-  <img width='600px' src="http://imgur.com/a/mOc5F"><br><br>
+  <img width='600px' src="http://i.imgur.com/yPXqu4n.jpg"><br><br>
 </div>
 
 -----------------
